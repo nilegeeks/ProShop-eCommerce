@@ -22,7 +22,7 @@
 - Database seeder (products & users)
 
 ## Live Demo 
-[SuqSop](https://geek-suqshopapp.herokuapp.com/)
+[ProShop](https://geek-suqshopapp.herokuapp.com/)
 
 
 ## Usage
